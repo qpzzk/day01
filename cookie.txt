@@ -1,0 +1,10 @@
+# Netscape HTTP Cookie File
+# http://curl.haxx.se/rfc/cookie_spec.html
+# This is a generated file!  Do not edit.
+
+.mail.qq.com	TRUE	/	FALSE		qm_sk	
+.mail.qq.com	TRUE	/	FALSE		qm_ssum	
+.qq.com	TRUE	/	FALSE		qm_sk	
+.qq.com	TRUE	/	FALSE		qm_ssum	
+.qq.com	TRUE	/	FALSE		skey	
+.qq.com	TRUE	/	FALSE		uin	
